@@ -49,3 +49,7 @@ To reproduce the results, ensure the following dependencies are installed:
 - numpy
 - pandas
 - matplotlib
+
+##  📜 Citation
+- Bootstrap your own latent: A new approach to self-supervised Learning
+- https://arxiv.org/abs/2006.07733
